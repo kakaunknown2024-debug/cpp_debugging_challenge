@@ -50,41 +50,10 @@ The third line contains an integer **k**, representing the number of right rotat
 
 # Constraints
 
-1
-≤
-𝑛
-≤
-10
-5
-1≤n≤10
-5
+1<=n<=10^5
+0<=k<=10^9
+-10^9 <= arr[i] <= 10^9
 
-0
-≤
-𝑘
-≤
-10
-5
-0≤k≤10
-5
-
-−
-10
-9
-≤
-𝑎
-𝑟
-𝑟
-[
-𝑖
-]
-≤
-10
-9
-−10
-9
-≤arr[i]≤10
-9
 
 ---
 
